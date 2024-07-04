@@ -1,0 +1,11 @@
+.logoImg img {
+  width: 50%;
+  display: block;
+  border-radius: 50px;
+  margin: 20px auto;
+}
+
+.titleDiv {
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
